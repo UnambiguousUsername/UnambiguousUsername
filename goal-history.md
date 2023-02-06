@@ -1,2 +1,0 @@
-- learn gitkraken
-- learn github
